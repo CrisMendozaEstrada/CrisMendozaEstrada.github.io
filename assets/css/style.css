@@ -1,0 +1,26 @@
+*{
+    background-color: #98dfaf;
+    font-family: raleway;
+    text-decoration: none;
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+  }  
+  
+a{
+    font-family: raleway;
+    font-weight: bold;
+    color: black;
+    transition: 1s all;
+}
+
+a:hover{
+    color: #682d63;
+    transform: scale(1.2);
+}
+
+li{
+    list-style: none;
+}

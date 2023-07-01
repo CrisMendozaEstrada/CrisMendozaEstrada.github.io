@@ -1,0 +1,14 @@
+.derechos p{
+    background-color: #deefb7; 
+    text-align: center;
+    color: grey;
+    font-weight: bold;
+}
+
+.derechos__nombre{
+    padding-top: 1rem;
+}
+
+.derechos__año{
+    padding-bottom: 1rem;
+}
